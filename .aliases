@@ -1,0 +1,8 @@
+# Aliases
+alias ll='ls -lh'
+alias la='ls -lha'
+alias home='cd ~'
+
+# Comandos
+alias ip_interno="ipconfig getifaddr en0 && ipconfig getifaddr en1"
+alias ip_externo="curl ipec"
